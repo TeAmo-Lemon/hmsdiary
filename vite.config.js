@@ -16,7 +16,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: "docs"
+    outDir: "dist"
   },
   publicPath: './',
   base: './',
